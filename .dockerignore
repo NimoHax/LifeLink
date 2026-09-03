@@ -1,0 +1,16 @@
+.git
+.gitignore
+node_modules
+**/node_modules
+.next
+**/.next
+.turbo
+coverage
+*.log
+.env
+.env.*
+!.env.example
+README*
+docs
+docker-compose*.yml
+docker-compose*.yaml

@@ -1,0 +1,14 @@
+LifeLink Web — Dockerfile deployment only
+
+Recommended Coolify settings:
+Repository: NimoHax/LifeLink
+Branch: main
+Build Pack: Dockerfile
+Base Directory: /apps/web
+Dockerfile Location: Dockerfile
+Port: 3000
+
+Alternative:
+Base Directory: /
+Dockerfile Location: Dockerfile
+Port: 3000

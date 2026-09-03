@@ -1,0 +1,3 @@
+Source reviewed: LifeLink-main(2).zip
+Local npm install/build was not executed because package installation requires network access in this environment.
+Code-level auth, Supabase client/session handling, landing CTAs, Docker build-time public env handling, and rerunnable schema were updated.

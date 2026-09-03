@@ -1,0 +1,11 @@
+{
+  "name": "lifelink",
+  "private": true,
+  "scripts": {
+    "dev": "npm --workspace @lifelink/web run dev",
+    "build": "npm --workspace @lifelink/web run build",
+    "start": "npm --workspace @lifelink/web run start",
+    "lint": "npm --workspace @lifelink/web run lint"
+  },
+  "workspaces": ["apps/web"]
+}
